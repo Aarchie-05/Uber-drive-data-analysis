@@ -22,14 +22,17 @@ Dataset: The dataset contains Start Date, End Date, Start Location, End Location
 - Performed exploratory data analysis using jupyter notebook and drove insights from the data.
 - Created an interactive Power BI Dashboard to visually represent the insights.
 
-### 1. DASHBOARD
+### 1. [DASHBOARD](https://github.com/Aarchie-05/Uber-drive-data-analysis/blob/main/Uber%20drive%20data%20analysis%20Dashboard.pdf)
 <br><br>
 <img src="https://github.com/Aarchie-05/Uber-drive-data-analysis/blob/main/Screenshots/Dashboard.png" alt="SS 1"/>
 
-### 2. Conclusions
+### 2. [Conclusions](https://github.com/Aarchie-05/Uber-drive-data-analysis/blob/main/Uber%20drive%20data%20analysis%20(EDA).ipynb)
 <br><br>
 <img src="https://github.com/Aarchie-05/Uber-drive-data-analysis/blob/main/Screenshots/conclusions.png" alt="SS 1"/>
  
+### 3. [EDA](https://github.com/Aarchie-05/Uber-drive-data-analysis/blob/main/Uber%20drive%20data%20analysis%20(EDA).ipynb)
+<br><br>
+<img src="https://github.com/Aarchie-05/Uber-drive-data-analysis/blob/main/Screenshots/EDA.png" alt="SS 1"/>
  ---
  
  
